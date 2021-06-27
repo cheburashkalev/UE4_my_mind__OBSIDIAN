@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "a087ecb991a0873c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c036f957196523a1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "BORDER_UI.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e188c9c490569208",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4d55bde4f665f38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "790d22c3254d0f78",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a56122ab6028ccae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f2137d41a1a0c897",
+    "type": "split",
+    "children": [
+      {
+        "id": "b370fc879d253871",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9bbb57a83fe560b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "BORDER_UI.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c036f957196523a1",
+  "lastOpenFiles": [
+    "BORDER_UI.md",
+    "Pasted image 20210627094935.png",
+    "UI.md",
+    "Untitled.md"
+  ]
+}
